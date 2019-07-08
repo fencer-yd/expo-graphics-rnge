@@ -1,5 +1,7 @@
 .DS_Store
+.vscode
 node_modules/
 screenshots/
 npm-debug.log
-examples
+yarn-error.log
+__tests__/
